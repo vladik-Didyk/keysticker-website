@@ -208,14 +208,14 @@ export default function Hero() {
         <div className="relative mx-auto max-w-[520px]">
           <img
             src="/images/keyflow-black.png"
-            alt="KeyShortcut showing shortcuts — dark mode"
+            alt="KeySticker showing shortcuts — dark mode"
             loading="eager"
             fetchPriority="high"
             className="hero-app-screenshot hero-app-dark rounded-2xl screenshot-shadow"
           />
           <img
             src="/images/keyflow-white.png"
-            alt="KeyShortcut showing shortcuts — light mode"
+            alt="KeySticker showing shortcuts — light mode"
             loading="eager"
             fetchPriority="high"
             className="hero-app-screenshot hero-app-light rounded-2xl screenshot-shadow"

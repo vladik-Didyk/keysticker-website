@@ -47,7 +47,7 @@ export const CONTENT = {
           ],
         },
       ],
-      copyright: 'KeyShortcut. All rights reserved.',
+      copyright: 'KeySticker. All rights reserved.',
       bottomTagline: 'Made for people who love shortcuts.',
     },
 
@@ -105,7 +105,7 @@ export const CONTENT = {
     },
 
     features: {
-      title: 'What makes KeyShortcut',
+      title: 'What makes KeySticker',
       titleAccent: 'different',
       subtitle: 'Built to stay out of your way while keeping every shortcut within reach.',
       items: [
@@ -113,25 +113,25 @@ export const CONTENT = {
           title: `${formatShortcutCount()} shortcuts across ${APP_COUNT} apps`,
           description: 'From Finder basics to Figma layers to Excel formulas — the shortcuts you actually use, organized by app, ready at a glance. No memorization required.',
           screenshot: 'keyflow-screen2-activeapp',
-          alt: 'KeyShortcut showing organized keyboard shortcuts across multiple Mac applications',
+          alt: 'KeySticker showing organized keyboard shortcuts across multiple Mac applications',
         },
         {
           title: 'Always there. Never in the way.',
-          description: 'KeyShortcut floats above your workspace in a compact glass panel. It doesn\'t steal focus, doesn\'t block your clicks, doesn\'t interrupt your flow. Pin it to any corner or drag it wherever you want. Toggle it with one hotkey.',
+          description: 'KeySticker floats above your workspace in a compact glass panel. It doesn\'t steal focus, doesn\'t block your clicks, doesn\'t interrupt your flow. Pin it to any corner or drag it wherever you want. Toggle it with one hotkey.',
           screenshot: 'keyflow-screen5-workflow',
-          alt: 'KeyShortcut floating panel positioned in corner without blocking the workspace',
+          alt: 'KeySticker floating panel positioned in corner without blocking the workspace',
         },
         {
           title: 'Knows what you\'re using',
-          description: 'Switch to Figma, and Figma shortcuts appear. Switch to VS Code, and you see VS Code shortcuts. KeyShortcut detects your active app and shows the right shortcuts automatically.',
+          description: 'Switch to Figma, and Figma shortcuts appear. Switch to VS Code, and you see VS Code shortcuts. KeySticker detects your active app and shows the right shortcuts automatically.',
           screenshot: 'keyflow-screen3-followkeys',
-          alt: 'KeyShortcut automatically detecting the active app and showing relevant shortcuts',
+          alt: 'KeySticker automatically detecting the active app and showing relevant shortcuts',
         },
         {
           title: 'Your shortcuts, your rules',
           description: 'Create custom shortcuts for anything — open apps, launch URLs, run Apple Shortcuts, or just keep a personal reference card. Assign a global hotkey and trigger them from anywhere on your Mac.',
           screenshot: 'keyflow-screen4-search',
-          alt: 'KeyShortcut custom shortcuts editor with personal shortcut configurations',
+          alt: 'KeySticker custom shortcuts editor with personal shortcut configurations',
         },
       ],
     },
@@ -168,7 +168,7 @@ export const CONTENT = {
         {
           icon: 'ShieldCheck',
           title: 'Completely private',
-          description: 'No analytics. No tracking. No data collection. No internet connection required. KeyShortcut runs entirely on your Mac, and your data stays there.',
+          description: 'No analytics. No tracking. No data collection. No internet connection required. KeySticker runs entirely on your Mac, and your data stays there.',
         },
       ],
     },
@@ -304,23 +304,23 @@ export const CONTENT = {
 
     faq: {
       title: 'Questions and answers',
-      subtitle: 'Everything you need to know about KeyShortcut.',
+      subtitle: 'Everything you need to know about KeySticker.',
       items: [
         {
-          question: 'What macOS versions does KeyShortcut support?',
-          answer: 'KeyShortcut requires macOS 13 (Ventura) or later.',
+          question: 'What macOS versions does KeySticker support?',
+          answer: 'KeySticker requires macOS 13 (Ventura) or later.',
         },
         {
           question: 'Is this a subscription?',
-          answer: `No. KeyShortcut is a one-time purchase of ${PRICE}. No subscriptions, no in-app purchases, no upsells. Pay once, use it forever.`,
+          answer: `No. KeySticker is a one-time purchase of ${PRICE}. No subscriptions, no in-app purchases, no upsells. Pay once, use it forever.`,
         },
         {
           question: 'Does it work with my favorite app?',
-          answer: `KeyShortcut ships with shortcuts for ${APP_COUNT} apps \u2014 from system essentials like Finder and Safari to professional tools like Figma, Xcode, Final Cut Pro, and Excel. Plus JetBrains IDEs, Google Workspace, project management tools, and more. You can also import custom shortcut packs or create your own.`,
+          answer: `KeySticker ships with shortcuts for ${APP_COUNT} apps \u2014 from system essentials like Finder and Safari to professional tools like Figma, Xcode, Final Cut Pro, and Excel. Plus JetBrains IDEs, Google Workspace, project management tools, and more. You can also import custom shortcut packs or create your own.`,
         },
         {
           question: 'Is it private?',
-          answer: 'Completely. KeyShortcut is sandboxed, collects no data, sends nothing over the internet, and requires no account. What happens on your Mac stays on your Mac.',
+          answer: 'Completely. KeySticker is sandboxed, collects no data, sends nothing over the internet, and requires no account. What happens on your Mac stays on your Mac.',
         },
         {
           question: 'Can I add my own shortcuts?',
@@ -328,15 +328,15 @@ export const CONTENT = {
         },
         {
           question: 'Does it support my language?',
-          answer: 'KeyShortcut is fully localized in 11 languages: English, Spanish, French, Portuguese (Brazil), Russian, Chinese (Simplified), Hindi, Arabic, Hebrew, Bengali, and Urdu \u2014 including full right-to-left support.',
+          answer: 'KeySticker is fully localized in 11 languages: English, Spanish, French, Portuguese (Brazil), Russian, Chinese (Simplified), Hindi, Arabic, Hebrew, Bengali, and Urdu \u2014 including full right-to-left support.',
         },
         {
-          question: 'How is KeyShortcut different from free alternatives?',
-          answer: 'Free tools typically show you a raw list of menu items when you hold a key \u2014 then disappear the moment you let go. KeyShortcut is always visible, beautifully organized, covers apps beyond the one you\'re in, detects your active app automatically, lets you search across everything, and supports custom shortcuts with global hotkeys. It\'s a shortcut companion, not a tooltip.',
+          question: 'How is KeySticker different from free alternatives?',
+          answer: 'Free tools typically show you a raw list of menu items when you hold a key \u2014 then disappear the moment you let go. KeySticker is always visible, beautifully organized, covers apps beyond the one you\'re in, detects your active app automatically, lets you search across everything, and supports custom shortcuts with global hotkeys. It\'s a shortcut companion, not a tooltip.',
         },
         {
           question: 'Can I use it on multiple Macs?',
-          answer: 'Yes. Like any Mac App Store purchase, KeyShortcut is tied to your Apple Account. Download it on any Mac signed into the same account. Family Sharing is also supported.',
+          answer: 'Yes. Like any Mac App Store purchase, KeySticker is tied to your Apple Account. Download it on any Mac signed into the same account. Family Sharing is also supported.',
         },
       ],
     },
@@ -349,19 +349,19 @@ export const CONTENT = {
           title: 'Privacy Policy',
           id: 'privacy',
           content: [
-            'The KeyShortcut app does not collect, store, or transmit any personal data. No analytics or tracking frameworks are included in the app.',
+            'The KeySticker app does not collect, store, or transmit any personal data. No analytics or tracking frameworks are included in the app.',
             'No network requests are made by the app \u2014 it works entirely offline.',
             'All user preferences (favorites, custom shortcuts, window position) are stored locally on your device using macOS UserDefaults.',
-            'KeyShortcut requests Accessibility permissions solely to detect which app is in the foreground and to monitor key presses for the "Follow Key Presses" feature. This data is never recorded or transmitted.',
-            'The keyshortcut.com website uses Cloudflare Web Analytics (cookie-free, no personal data) and Google AdSense. These services apply only to the website, not the app.',
+            'KeySticker requests Accessibility permissions solely to detect which app is in the foreground and to monitor key presses for the "Follow Key Presses" feature. This data is never recorded or transmitted.',
+            'The keysticker.com website uses Cloudflare Web Analytics (cookie-free, no personal data) and Google AdSense. These services apply only to the website, not the app.',
           ],
         },
         {
           title: 'Terms of Use',
           id: 'terms',
           content: [
-            'KeyShortcut is provided "as is" without warranty of any kind, express or implied.',
-            'You may use KeyShortcut for personal and commercial purposes.',
+            'KeySticker is provided "as is" without warranty of any kind, express or implied.',
+            'You may use KeySticker for personal and commercial purposes.',
             'The app is distributed exclusively through the Mac App Store and is subject to Apple\'s standard terms and conditions.',
             'We reserve the right to update these terms at any time. Continued use of the app constitutes acceptance of any changes.',
           ],
@@ -374,7 +374,7 @@ export const CONTENT = {
             'All app data stays on your device in the macOS app sandbox.',
             'No third-party SDKs, analytics, or advertising frameworks in the app.',
             'No cloud sync \u2014 your settings live exclusively on your Mac.',
-            'Uninstalling KeyShortcut removes all associated data from your system.',
+            'Uninstalling KeySticker removes all associated data from your system.',
             'The website uses Cloudflare Web Analytics and Google AdSense. See our full privacy policy for details.',
           ],
         },
@@ -392,7 +392,7 @@ export const CONTENT = {
     video: {
       title: 'See it in',
       titleAccent: 'action',
-      subtitle: 'Watch how KeyShortcut helps you master macOS shortcuts effortlessly.',
+      subtitle: 'Watch how KeySticker helps you master macOS shortcuts effortlessly.',
       placeholder: 'Video coming soon',
     },
   },
@@ -402,24 +402,24 @@ export const CONTENT = {
     policy: {
       title: 'Privacy Policy',
       effectiveDate: 'Effective date: March 14, 2026',
-      intro: 'KeyShortcut is built with privacy as a core principle. The app operates entirely offline and collects zero user data. This policy covers both the KeyShortcut macOS app and the keyshortcut.com website.',
+      intro: 'KeySticker is built with privacy as a core principle. The app operates entirely offline and collects zero user data. This policy covers both the KeySticker macOS app and the keysticker.com website.',
       sections: [
         {
           heading: 'App Data Collection',
           content: [
-            { type: 'paragraph', text: 'The KeyShortcut macOS app does not collect, store, or transmit any personal data. There are no analytics frameworks, no tracking pixels, and no third-party SDKs in the app.' },
+            { type: 'paragraph', text: 'The KeySticker macOS app does not collect, store, or transmit any personal data. There are no analytics frameworks, no tracking pixels, and no third-party SDKs in the app.' },
           ],
         },
         {
           heading: 'Network Access',
           content: [
-            { type: 'paragraph', text: 'The KeyShortcut macOS app makes zero network requests. The app contains no networking code and does not communicate with any server. It works entirely offline.' },
+            { type: 'paragraph', text: 'The KeySticker macOS app makes zero network requests. The app contains no networking code and does not communicate with any server. It works entirely offline.' },
           ],
         },
         {
           heading: 'Website Analytics & Advertising',
           content: [
-            { type: 'paragraph', text: 'The keyshortcut.com website uses the following third-party services:' },
+            { type: 'paragraph', text: 'The keysticker.com website uses the following third-party services:' },
             {
               type: 'list',
               items: [
@@ -427,13 +427,13 @@ export const CONTENT = {
                 { bold: 'Google AdSense', text: ' \u2014 may display ads on certain pages of the website. Google may use cookies to serve ads based on your prior visits. You can opt out of personalized advertising at ', link: { text: 'Google Ads Settings', href: 'https://www.google.com/settings/ads' }, textAfter: '.' },
               ],
             },
-            { type: 'paragraph', text: 'These services apply only to the website. The KeyShortcut macOS app contains no analytics, advertising, or tracking of any kind.' },
+            { type: 'paragraph', text: 'These services apply only to the website. The KeySticker macOS app contains no analytics, advertising, or tracking of any kind.' },
           ],
         },
         {
           heading: 'Local Storage',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut stores your preferences locally on your device using macOS UserDefaults within the app sandbox. This includes:' },
+            { type: 'paragraph', text: 'KeySticker stores your preferences locally on your device using macOS UserDefaults within the app sandbox. This includes:' },
             {
               type: 'list',
               items: [
@@ -444,13 +444,13 @@ export const CONTENT = {
                 'Imported shortcut pack file references',
               ],
             },
-            { type: 'paragraph', text: 'This data never leaves your Mac. Uninstalling KeyShortcut removes all associated data.' },
+            { type: 'paragraph', text: 'This data never leaves your Mac. Uninstalling KeySticker removes all associated data.' },
           ],
         },
         {
           heading: 'Accessibility Permissions',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut may request macOS Accessibility permission for two optional features:' },
+            { type: 'paragraph', text: 'KeySticker may request macOS Accessibility permission for two optional features:' },
             {
               type: 'list',
               items: [
@@ -464,13 +464,13 @@ export const CONTENT = {
         {
           heading: 'Apple Diagnostics',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut uses Apple\'s MetricKit framework, which allows Apple to collect anonymized crash reports and performance metrics through the standard macOS diagnostics pipeline. This data is processed by Apple, not by us. You can control this in System Settings > Privacy & Security > Analytics & Improvements.' },
+            { type: 'paragraph', text: 'KeySticker uses Apple\'s MetricKit framework, which allows Apple to collect anonymized crash reports and performance metrics through the standard macOS diagnostics pipeline. This data is processed by Apple, not by us. You can control this in System Settings > Privacy & Security > Analytics & Improvements.' },
           ],
         },
         {
           heading: 'Children\'s Privacy',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut does not collect any data from any user, including children.' },
+            { type: 'paragraph', text: 'KeySticker does not collect any data from any user, including children.' },
           ],
         },
         {
@@ -490,24 +490,24 @@ export const CONTENT = {
     terms: {
       title: 'Terms of Use',
       effectiveDate: 'Effective date: March 14, 2026',
-      intro: 'By purchasing and using KeyShortcut, you agree to the following terms.',
+      intro: 'By purchasing and using KeySticker, you agree to the following terms.',
       sections: [
         {
           heading: 'License',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut is licensed, not sold. Your purchase grants you a non-exclusive, non-transferable license to use the app on any Mac signed into your Apple Account, in accordance with Apple\'s standard App Store terms.' },
+            { type: 'paragraph', text: 'KeySticker is licensed, not sold. Your purchase grants you a non-exclusive, non-transferable license to use the app on any Mac signed into your Apple Account, in accordance with Apple\'s standard App Store terms.' },
           ],
         },
         {
           heading: 'Disclaimer',
           content: [
-            { type: 'paragraph', text: 'KeyShortcut is provided "as is" without warranty of any kind, express or implied. We do not warrant that the app will be error-free or uninterrupted.' },
+            { type: 'paragraph', text: 'KeySticker is provided "as is" without warranty of any kind, express or implied. We do not warrant that the app will be error-free or uninterrupted.' },
           ],
         },
         {
           heading: 'Limitation of Liability',
           content: [
-            { type: 'paragraph', text: 'In no event shall the developer be liable for any indirect, incidental, or consequential damages arising from the use of KeyShortcut.' },
+            { type: 'paragraph', text: 'In no event shall the developer be liable for any indirect, incidental, or consequential damages arising from the use of KeySticker.' },
           ],
         },
         {
@@ -531,19 +531,19 @@ export const CONTENT = {
     home: {
       title: 'Keyboard Shortcuts for macOS, Windows & Linux',
       description: `Browse ${formatShortcutCount()} keyboard shortcuts for macOS, Windows, and Linux apps. Find shortcuts for any app, organized by category.`,
-      url: 'https://keyshortcut.com/',
+      url: 'https://keysticker.com/',
     },
     privacy: {
-      title: 'Privacy Policy & Terms \u2014 KeyShortcut',
-      description: 'KeyShortcut privacy policy, terms of use, and website data practices.',
-      url: 'https://keyshortcut.com/privacy',
+      title: 'Privacy Policy & Terms \u2014 KeySticker',
+      description: 'KeySticker privacy policy, terms of use, and website data practices.',
+      url: 'https://keysticker.com/privacy',
     },
     catchAll: {
-      title: 'Page Not Found \u2014 KeyShortcut',
+      title: 'Page Not Found \u2014 KeySticker',
       description: 'The page you\'re looking for doesn\'t exist.',
     },
     notFound: {
-      title: 'Not Found \u2014 KeyShortcut',
+      title: 'Not Found \u2014 KeySticker',
     },
   },
 
@@ -552,12 +552,12 @@ export const CONTENT = {
     website: {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'KeyShortcut',
-      url: 'https://keyshortcut.com',
+      name: 'KeySticker',
+      url: 'https://keysticker.com',
       description: 'Browse keyboard shortcuts for macOS, Windows, and Linux apps. Find shortcuts for any app, organized by category.',
       potentialAction: {
         '@type': 'SearchAction',
-        target: 'https://keyshortcut.com/?search={search_term_string}',
+        target: 'https://keysticker.com/?search={search_term_string}',
         'query-input': 'required name=search_term_string',
       },
     },

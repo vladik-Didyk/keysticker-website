@@ -17,7 +17,7 @@ export default function Footer() {
             <Link to="/" className="flex items-center gap-2.5 no-underline mb-4">
               <img
                 src="/images/app-icon.svg"
-                alt="KeyShortcut icon"
+                alt="KeySticker icon"
                 width={28}
                 height={28}
                 className="rounded-lg"

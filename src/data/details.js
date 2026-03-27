@@ -35,6 +35,6 @@ export const detailItems = [
     icon: ShieldCheck,
     title: 'Completely private',
     description:
-      'No analytics. No tracking. No data collection. No internet connection required. KeyShortcut runs entirely on your Mac, and your data stays there.',
+      'No analytics. No tracking. No data collection. No internet connection required. KeySticker runs entirely on your Mac, and your data stays there.',
   },
 ]

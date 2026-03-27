@@ -31,7 +31,7 @@ export const copy = {
   },
 
   features: {
-    title: 'What makes KeyShortcut',
+    title: 'What makes KeySticker',
     titleAccent: 'different',
     subtitle: 'Built to stay out of your way while keeping every shortcut within reach.',
   },
@@ -73,7 +73,7 @@ export const copy = {
 
   faq: {
     title: 'Questions and answers',
-    subtitle: 'Everything you need to know about KeyShortcut.',
+    subtitle: 'Everything you need to know about KeySticker.',
   },
 
   policies: {
@@ -129,14 +129,14 @@ export const copy = {
     errorTitle: 'App not found',
     errorSubtitle: 'We don\'t have shortcuts for this app yet.',
     errorLink: 'Browse all apps',
-    ctaSubtitle: 'KeyShortcut detects the active app and shows its shortcuts instantly. No memorization needed.',
-    ctaButton: 'Download KeyShortcut',
+    ctaSubtitle: 'KeySticker detects the active app and shows its shortcuts instantly. No memorization needed.',
+    ctaButton: 'Download KeySticker',
   },
 
   directoryHomepage: {
     title: 'Keyboard Shortcuts\nDirectory',
     popularLabel: 'Popular',
-    promoTitle: 'KeyShortcut for Mac',
+    promoTitle: 'KeySticker for Mac',
     promoSubtitle: 'See shortcuts for the active app in your menu bar.',
     promoButton: 'Download',
   },

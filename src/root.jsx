@@ -61,14 +61,14 @@ export function Layout({ children }) {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://keyshortcut.com/images/screenshots/keyflow-screen1-hero-2880x1800.jpg"
+          content="https://keysticker.com/images/screenshots/keyflow-screen1-hero-2880x1800.jpg"
         />
 
         {/* Twitter Card defaults */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:image"
-          content="https://keyshortcut.com/images/screenshots/keyflow-screen1-hero-2880x1800.jpg"
+          content="https://keysticker.com/images/screenshots/keyflow-screen1-hero-2880x1800.jpg"
         />
 
         {/* JSON-LD WebSite — static content, safe to inline */}

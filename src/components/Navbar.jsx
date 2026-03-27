@@ -23,8 +23,8 @@ export default function Navbar() {
     >
       <div className="mx-auto max-w-[980px] px-5 md:px-6 flex items-center justify-between h-12">
         <Link to="/" className="flex items-center gap-2.5 no-underline">
-          <img src="/images/app-icon.svg" alt="KeyShortcut icon" width={28} height={28} className="rounded-lg" />
-          <span className="text-base font-semibold text-theme-text">KeyShortcut</span>
+          <img src="/images/app-icon.svg" alt="KeySticker icon" width={28} height={28} className="rounded-lg" />
+          <span className="text-base font-semibold text-theme-text">KeySticker</span>
         </Link>
 
         <a

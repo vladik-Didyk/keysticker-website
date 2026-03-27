@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Keyboard shortcuts directory website — a React site that serves as a multi-platform shortcut directory (macOS, Windows, Linux) with a secondary Mac HUD product page. Domain: `https://keyshortcut.com`.
+Keyboard shortcuts directory website — a React site that serves as a multi-platform shortcut directory (macOS, Windows, Linux) with a secondary Mac HUD product page. Domain: `https://keysticker.com`.
 
 ## Commands
 
@@ -155,7 +155,7 @@ Flat config (`eslint.config.js`). `no-unused-vars` ignores names matching `^[A-Z
 
 ### Deployment
 
-Hosted on **Cloudflare Pages** (project: `keyshortcut`). Domain: `keyshortcut.com` via Namecheap (nameservers pointed to Cloudflare).
+Hosted on **Cloudflare Pages** (project: `keysticker`). Domain: `keysticker.com` via Namecheap (nameservers pointed to Cloudflare).
 
 ```bash
 pnpm run deploy   # Build + deploy to Cloudflare Pages (production)

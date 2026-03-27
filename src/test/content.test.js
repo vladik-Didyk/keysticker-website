@@ -12,7 +12,7 @@ describe('CONTENT structure', () => {
 
   it('shared namespace has required keys', () => {
     const { shared } = CONTENT
-    expect(shared.siteName).toBe('KeyShortcut')
+    expect(shared.siteName).toBe('KeySticker')
     expect(shared.tagline).toBeTruthy()
     expect(shared.navbar).toBeDefined()
     expect(shared.navbar.downloadLabel).toBeTruthy()
